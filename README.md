@@ -33,4 +33,4 @@ Because this application won’t be deployed, you’ll need to provide a link to
   If you have any questions about the repo, open an issue or contact me directly at Kalvin.win59@gmail.com. You can find more of my work at [KalvinN361](https://github.com/KalvinN361/).
   
   ## Visual Presentation
-  ![readMe Generator Demo](https://github.com/KalvinN361/readMe-Generator/blob/8d899ee0b7c6eda8e73d1ca554d7e368c93335d6/readMe%20Generator.gif) 
+  ![readMe Generator Demo](https://github.com/KalvinN361/Team-Profile-Generator/blob/d5ac8f8cffb7d6bc5d412c29307ed93d9bdb049c/src/team-profile-generator.gif) 
