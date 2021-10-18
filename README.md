@@ -13,7 +13,6 @@ Because this application won’t be deployed, you’ll need to provide a link to
 * [License](#license)
 
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
   To install necessary dependencies, run the following command:
